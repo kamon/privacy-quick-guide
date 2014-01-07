@@ -5,7 +5,7 @@ A Collection of privacy tips and learning resources
 
 * Understanding privacy threats
 
-## Topics
+# Topics
 
 * [Better Services and Applications](better-services-and-applications/README.md)
 * [Tracking](tracking/README.md)

@@ -1,8 +1,8 @@
 Web Analytics & Privacy
-=======================================================
+=======================
 
 
-## Opt-out pages for analytics providers
+# Opt-out pages for analytics providers
 
 You can go on these pages to opt-out from these services tracking you:
 

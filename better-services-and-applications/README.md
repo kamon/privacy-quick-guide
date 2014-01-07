@@ -2,14 +2,12 @@ Better Services and Applications for privacy
 ============================================
 
 
-## Search engines
+# Search engines
 
-# Startpage: https://startpage.com/
+* Startpage: https://startpage.com/
+* Duck Duck Go: https://duckduckgo.com/
 
-# Duck Duck Go: https://duckduckgo.com/
-
-
-## Mail
+# Mail
 
 
 
