@@ -6,17 +6,17 @@
 
 A firefox plugin that allows you to visualize which sites are using third-party cookies to track your movements across the Web.
 
-* Graph view
+#### Graph view
 
-  ![lightbeam graph view](../SCREENSHOTS/lightbeam-graph-view.png?raw=true)
+![lightbeam graph view](../SCREENSHOTS/lightbeam-graph-view.png?raw=true)
 
-* Clock view
+#### Clock view
 
-  (screenshot)
+![lightbeam clock view](../SCREENSHOTS/lightbeam-clock-view.png?raw=true)
 
-* List view
+#### List view
   
-  (screenshot)
+![lightbeam list view](../SCREENSHOTS/lightbeam-list-view.png?raw=true)
 
 ## Protecting yourself against tracking
 
