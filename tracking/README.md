@@ -8,7 +8,7 @@ A firefox plugin that allows you to visualize which sites are using third-party 
 
 * Graph view
 
-  (screenshot)
+  ![lightbeam graph view](../blob/master/SCREENSHOTS/lightbeam-graph-view.png?raw=true)
 
 * Clock view
 
